@@ -6,5 +6,5 @@
 
 ________________
 
-[View my CV here](mhunter52.github.io/cv.md)
+[View my CV here](https://mhunter52.github.io/CV)
 
