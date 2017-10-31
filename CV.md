@@ -59,24 +59,9 @@ Graduate Assistant | Spring 2014<br/>
 
 ________________
 
+**Professional Service**
 
-**Grants and Contracts**
-
-Project Manager | Florida Department of State | 16-LSTA-A-10-A | “Library Services and Technology Act project Leadership Recruitment and Development 2016 - Florida Library Jobs”
-        10/1/16 - 6/9/17
-
-Special Project Director | Florida Department of State | 17-LCG-03 | “Library Cooperative Grant”
-        10/1/16 - 6/9/17
-        
-Project Manager | Florida Department of State | 15-LSTA-A-09-A| “Library Services and Technology Act project Leadership Recruitment and Development 2016 - Florida Library Jobs”
-        7/18/16 - 9/30/16
-        
-
-Special Project Director | Florida Department of State | 16-LCG-03 | “Library Cooperative Grant”
-        7/18/16 - 9/30/16
-        
-
-________________
+Chair | ACRL Digital Scholarship Section Liaison Committee (2017- )
 
 
 **Publications**
@@ -98,6 +83,25 @@ THATCamp Florida 2016, University of Central Florida, Orlando FL. (Regional)
  * Hunter, M. E. (presented 2014, March). “The Misrepresentation of Meat Consumption in Caesar’s Gallic War.” 
 2014 Graduate Student Conference, University of California, Irvine, Irvine, California. (National)
  
+________________
+
+
+**Grants and Contracts**
+
+Project Manager | Florida Department of State | 16-LSTA-A-10-A | “Library Services and Technology Act project Leadership Recruitment and Development 2016 - Florida Library Jobs”
+        10/1/16 - 6/9/17
+
+Special Project Director | Florida Department of State | 17-LCG-03 | “Library Cooperative Grant”
+        10/1/16 - 6/9/17
+        
+Project Manager | Florida Department of State | 15-LSTA-A-09-A| “Library Services and Technology Act project Leadership Recruitment and Development 2016 - Florida Library Jobs”
+        7/18/16 - 9/30/16
+        
+
+Special Project Director | Florida Department of State | 16-LCG-03 | “Library Cooperative Grant”
+        7/18/16 - 9/30/16
+        
+
 ________________
 
 
