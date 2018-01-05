@@ -66,7 +66,8 @@ Chair | ACRL Digital Scholarship Section Liaison Committee (2017- )
 
 **Publications**
 
- * Moritz, Carolyn, Rachel J Smart, Aaron Retteen, Matthew Hunter, Sarah Stanley, Devin Soper, and Micah Vandegrift. 2017. “De-centering and Recentering Digital Scholarship: A Manifesto”. LIS Scholarship Archive. [Preprint]. August 7. osf.io/preprints/lissa/t7hfu. DOI: 10.17605/OSF.IO/T7HFU 
+ * Moritz, C., Smart, R., Retteen, A., Hunter, M., Stanley, S., Soper, D., & Vandegrift, M. (2017). De-centering and recentering digital scholarship: A manifesto. Journal of New Librarianship, 2(2), 102–109. https://doi.org/10.21173/newlibs/3/2
+
 
 
 **Conference Proceedings**
