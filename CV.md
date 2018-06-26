@@ -61,7 +61,7 @@ ________________
 
 **Professional Service**
 
-Chair | ACRL Digital Scholarship Section Liaison Committee (2017- )
+Chair - ACRL Digital Scholarship Section Liaison Committee (2017- )
 
 
 **Publications**
@@ -72,17 +72,26 @@ Chair | ACRL Digital Scholarship Section Liaison Committee (2017- )
 
 **Conference Proceedings**
 
- * Hunter, M. E., Randtke, W. (presented 2017, July). "Collecting Collections: An overview of two recent Florida digital collection inventory activities at Florida's library consortia".
-SEFLIN Regional Conference, 2017, Florida International University Biscayne Bay, Miami, FL. (Regional)
+* Hayes, E., Hunter, M., Stanley, S., Vandegrift, M. (accepted, 2018, October) “Updating TaDiRAH: Proposing Taxonomy for Digital Scholarship Activities in Libraries”
+Digital Library Federation 2018 Forum, Las Vegas NV. (International)
 
- * Stanley, S. C., Hunter, M. E. (presented 2016, June). “Exploring the adoption of STEM practice in the Digital Humanities”
-Keystone Digital Humanities Conference 2016, University of Pittsburgh, Pittsburgh PA. (National)
+* Pascoe, J., Hunter, M. (accepted, 2018, September) "The Brontës in the World: Creating a Digital Bibliography to Expand Access to Single-Language Sources"
+Japanese Association for Digital Humanities 2018, Tokyo, Japan.
 
- * Hunter, M. E. (presented 2016, February). “Comparing institutional sponsored research practice in DH and STEM disciplines. Funding ceilings, overhead costs, and perceived ‘taxes’ in DH research proposals.”
-THATCamp Florida 2016, University of Central Florida, Orlando FL. (Regional)
+* Hunter, M., Potter, P., Hole, B. MacGregor, J. (presented 2018, May) “Balancing Vendor Collaborations for Sustainable Library Publishing”
+Library Publishing Forum, University of Minnesota, Twin Cities, Minneapolis MN.
 
- * Hunter, M. E. (presented 2014, March). “The Misrepresentation of Meat Consumption in Caesar’s Gallic War.” 
-2014 Graduate Student Conference, University of California, Irvine, Irvine, California. (National)
+ * Hunter, M., Randtke, W. (presented 2017, July). "Collecting Collections: An overview of two recent Florida digital collection inventory activities at Florida's library consortia".
+SEFLIN Regional Conference, 2017, Florida International University Biscayne Bay, Miami, FL.
+
+ * Stanley, S., Hunter, M. (presented 2016, June). “Exploring the adoption of STEM practice in the Digital Humanities”
+Keystone Digital Humanities Conference 2016, University of Pittsburgh, Pittsburgh PA.
+
+ * Hunter, M. (presented 2016, February). “Comparing institutional sponsored research practice in DH and STEM disciplines. Funding ceilings, overhead costs, and perceived ‘taxes’ in DH research proposals.”
+THATCamp Florida 2016, University of Central Florida, Orlando FL.
+
+ * Hunter, M. (presented 2014, March). “The Misrepresentation of Meat Consumption in Caesar’s Gallic War.” 
+2014 Graduate Student Conference, University of California, Irvine, Irvine, California.
  
 ________________
 
@@ -113,6 +122,6 @@ ________________
 
 **Digital Scholarship Technology Experience**
 
- * Digital Publishing: Omeka, Scalar, WordPress, Islandora, LibGuides
+ * Digital Publishing: Omeka, Scalar, WordPress, Islandora, LibGuides, Pressbooks, Open Journal Systems
  * Digital Research Tools: Zotero, Voyant, HathiTrust Research Center, CartoDB, OpenRefine, Python
- * Visualization, 3D Printing, and Geospatial Tools: Blender, QGIS, Cura, Gephi, Tableau
+ * Visualization, 3D Modelling, and Geospatial Tools: Blender, Unity, QGIS, Cura, Gephi, Tableau
