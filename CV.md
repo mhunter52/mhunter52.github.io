@@ -71,6 +71,8 @@ Chair - ACRL Digital Scholarship Section Liaison Committee (2017- )
 
 
 **Conference Proceedings**
+* Hunter, M. (accepted, 2018, October) "Using Zotero as a Learner-Centered Course Management Tool"
+Florida Association for College and Research Libraries 2018, Fort Myers, FL. (Regional)
 
 * Hayes, E., Hunter, M., Stanley, S., Vandegrift, M. (accepted, 2018, October) “Updating TaDiRAH: Proposing Taxonomy for Digital Scholarship Activities in Libraries”
 Digital Library Federation 2018 Forum, Las Vegas NV. (International)
