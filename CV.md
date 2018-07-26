@@ -3,8 +3,8 @@
 
 #### *Digital Scholarship Technologist, Florida State University Libraries*<br/>
 ORCID - [https://orcid.org/0000-0003-4858-6947](https://orcid.org/0000-0003-4858-6947)<br/>
-Work - [mailto:mhunter2@fsu.edu](mhunter2@fsu.edu)<br/>
-Personal - [mailto:mhunter52@gmail.com](mhunter52@gmail.com)
+Work - [mhunter2@fsu.edu](mailto:mhunter2@fsu.edu)<br/>
+Personal - [mhunter52@gmail.com](mailto:mhunter52@gmail.com)
 
 ________________
 
