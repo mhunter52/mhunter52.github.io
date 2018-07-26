@@ -75,7 +75,7 @@ Chair - ACRL Digital Scholarship Section Liaison Committee (2017- )
 Florida Association for College and Research Libraries 2018, Fort Myers, FL. (Regional)
 
 * Hayes, E., Hunter, M., Stanley, S., Vandegrift, M. (accepted, 2018, October) “Updating TaDiRAH: Proposing Taxonomy for Digital Scholarship Activities in Libraries”
-Digital Library Federation 2018 Forum, Las Vegas NV. (International)
+Digital Library Federation 2018 Forum, Las Vegas, NV. (International)
 
 * Pascoe, J., Hunter, M. (accepted, 2018, September) "The Brontës in the World: Creating a Digital Bibliography to Expand Access to Single-Language Sources"
 Japanese Association for Digital Humanities 2018, Tokyo, Japan.
