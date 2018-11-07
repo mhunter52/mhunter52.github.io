@@ -70,15 +70,12 @@ Chair - ACRL Digital Scholarship Section Liaison Committee (2017- )
 
 
 
-**Conference Proceedings**
-* Hunter, M. (accepted, 2018, October) "Using Zotero as a Learner-Centered Course Management Tool"
+**Conference Presentations**
+* Hunter, M. (presented 2018, October) "Using Zotero as a Learner-Centered Course Management Tool"
 Florida Association for College and Research Libraries 2018, Fort Myers, FL. (Regional)
 
-* Hayes, E., Hunter, M., Stanley, S., Vandegrift, M. (accepted, 2018, October) “Updating TaDiRAH: Proposing Taxonomy for Digital Scholarship Activities in Libraries”
+* Hayes, E., Hunter, M., Stanley, S., Vandegrift, M. (presented 2018, October) “Updating TaDiRAH: Proposing Taxonomy for Digital Scholarship Activities in Libraries”
 Digital Library Federation 2018 Forum, Las Vegas, NV. (International)
-
-* Pascoe, J., Hunter, M. (accepted, 2018, September) "The Brontës in the World: Creating a Digital Bibliography to Expand Access to Single-Language Sources"
-Japanese Association for Digital Humanities 2018, Tokyo, Japan.
 
 * Hunter, M., Potter, P., Hole, B. MacGregor, J. (presented 2018, May) “Balancing Vendor Collaborations for Sustainable Library Publishing”
 Library Publishing Forum, University of Minnesota, Twin Cities, Minneapolis MN.
@@ -94,6 +91,12 @@ THATCamp Florida 2016, University of Central Florida, Orlando FL.
 
  * Hunter, M. (presented 2014, March). “The Misrepresentation of Meat Consumption in Caesar’s Gallic War.” 
 2014 Graduate Student Conference, University of California, Irvine, Irvine, California.
+
+
+**Poster Presentations**
+
+* Pascoe, J., Hunter, M. (presented 2018, September) "The Brontës in the World: Creating a Digital Bibliography to Expand Access to Single-Language Sources"
+Japanese Association for Digital Humanities 2018, Tokyo, Japan. http://purl.flvc.org/fsu/fd/FSU_libsubv1_scholarship_submission_1537802286_cca1b799
  
 ________________
 
