@@ -71,7 +71,7 @@ Chair - ACRL Digital Scholarship Section Liaison Committee (2017- )
 
 
 **Conference Presentations**
-* Hunter, M. (presented 2018, October) "Using Zotero as a Learner-Centered Course Management Tool"
+* Hunter, M. (presented 2018, October) "Against Modules: Using Zotero as a Learner-Centered Course Management Tool"
 Florida Association for College and Research Libraries 2018, Fort Myers, FL. (Regional)
 
 * Hayes, E., Hunter, M., Stanley, S., Vandegrift, M. (presented 2018, October) “Updating TaDiRAH: Proposing Taxonomy for Digital Scholarship Activities in Libraries”
