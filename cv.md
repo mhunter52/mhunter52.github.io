@@ -66,13 +66,13 @@ Chair - ACRL Digital Scholarship Section Liaison Committee (2017- )
 
 **Publications**
 
- * Moritz, C., Smart, R., Retteen, A., Hunter, M., Stanley, S., Soper, D., & Vandegrift, M. (2017). De-centering and recentering digital scholarship: A manifesto. Journal of New Librarianship, 2(2), 102–109. [https://doi.org/10.21173/newlibs/3/2] (https://doi.org/10.21173/newlibs/3/2)
+ * Moritz, C., Smart, R., Retteen, A., Hunter, M., Stanley, S., Soper, D., & Vandegrift, M. (2017). De-centering and recentering digital scholarship: A manifesto. Journal of New Librarianship, 2(2), 102–109. [https://doi.org/10.21173/newlibs/3/2](https://doi.org/10.21173/newlibs/3/2)
 
 
 
 **Conference Presentations**
 * Hunter, M. (presented 2018, October) "Against Modules: Using Zotero as a Learner-Centered Course Management Tool"
-Florida Association for College and Research Libraries 2018, Fort Myers, FL. (Regional) [https://bigredmeh.wordpress.com/2019/08/15/againstmodules/] (https://bigredmeh.wordpress.com/2019/08/15/againstmodules/)
+Florida Association for College and Research Libraries 2018, Fort Myers, FL. (Regional) [https://bigredmeh.wordpress.com/2019/08/15/againstmodules/](https://bigredmeh.wordpress.com/2019/08/15/againstmodules/)
 
 * Hayes, E., Hunter, M., Stanley, S., Vandegrift, M. (presented 2018, October) “Updating TaDiRAH: Proposing Taxonomy for Digital Scholarship Activities in Libraries”
 Digital Library Federation 2018 Forum, Las Vegas, NV. (International)
