@@ -18,6 +18,8 @@ ________________
 
 **Education**
 
+In Progress | Ph.D., History<br/>
+*Florida State University, Tallahassee, FL*
 
 2016 | M.S., Library and Information Studies<br/>
 *Florida State University, Tallahassee, FL*
