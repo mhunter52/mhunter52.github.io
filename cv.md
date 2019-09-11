@@ -110,6 +110,12 @@ ________________
 
 **Grants and Contracts**
 
+Key Personnel | Florida State University Council for Research and Creativity | 2019 Equipment and Infrastructure Grant
+	5/13/2019
+
+PI | Florida State University | 2018 Sustainable Campus Grant
+	4/26/2018
+
 Project Manager | Florida Department of State | 16-LSTA-A-10-A | “Library Services and Technology Act project Leadership Recruitment and Development 2016 - Florida Library Jobs”
         10/1/16 - 6/9/17
 
