@@ -61,7 +61,9 @@ ________________
 
 **Professional Service**
 
-Chair - ACRL Digital Scholarship Section Liaison Committee (2017- )
+Member - Library Publishing Coalition Research Committee (2019- )
+
+Chair - ACRL Digital Scholarship Section Liaison Committee (2017-2019)
 
 
 **Publications**
@@ -71,6 +73,9 @@ Chair - ACRL Digital Scholarship Section Liaison Committee (2017- )
 
 
 **Conference Presentations**
+* Hunter, M. (presented 2019, June) "Digital Cultural Heritage and the gamification of the past"
+THATCamp Tallahassee 2019, Tallahassee, FL. (Regional) 
+
 * Hunter, M. (presented 2018, October) "Against Modules: Using Zotero as a Learner-Centered Course Management Tool"
 Florida Association for College and Research Libraries 2018, Fort Myers, FL. (Regional) [https://bigredmeh.wordpress.com/2019/08/15/againstmodules/](https://bigredmeh.wordpress.com/2019/08/15/againstmodules/)
 
