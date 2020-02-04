@@ -110,6 +110,9 @@ ________________
 
 **Grants and Contracts**
 
+PI | Panhandle Library Access Network | 2019-2020 Innovation Project Grant | Mobile 3D Scanner 
+	11/30/2019
+
 Key Personnel | Florida State University Council for Research and Creativity | 2019 Equipment and Infrastructure Grant
 	5/13/2019
 
