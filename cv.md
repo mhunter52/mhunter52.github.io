@@ -13,6 +13,8 @@ ________________
  * The library as academic publisher
  * Data visualization and physicalization
  * Diet, identity, and foodways in the Roman Empire
+ * Diet, identity, and foodways in medieval England
+ * Agricultural production in medieval English manorial holdings
 
 ________________
 
