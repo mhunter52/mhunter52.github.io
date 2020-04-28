@@ -38,9 +38,10 @@ ________________
 
 	
 **Employment**
+Digital Scholarship Librarian | 1/2020 - present<br/>
+*Florida State University Libraries Office of Digital Research and Scholarship, Tallahassee, FL*
 
-
-Digital Scholarship Technologist | 6/2017 - present<br/>
+Digital Scholarship Technologist | 6/2017 - 1/2020<br/>
 *Florida State University Libraries Office of Digital Research and Scholarship, Tallahassee, FL*
 
 Director of Digital Services | 7/2016 – 6/2017<br/>
@@ -75,6 +76,15 @@ Chair - ACRL Digital Scholarship Section Liaison Committee (2017-2019)
 
 
 **Conference Presentations**
+* Hunter M., Soper, D., Thomas, C., Miller, L. (Accepted) “Ask the Editors: Expanded Uses for Faculty Needs Assessments”
+Library Publishing Coalition Forum 2020, Worcester, MA. (International)
+
+* Hunter M. (Postponed*) “3D Digital Literacy: Digital Culture Heritage as Pedagogy”
+Florida Digital Humanities Consortium Conference, 2020, St. Augustine, FL. (Regional)
+
+* Hunter M. (Invited panelist, 2019, June) LITA “Top Tech Trends 2019” Panel 
+American Library Association Annual Conference 2019, Washington, D.C. (National) 
+
 * Hunter, M. (presented 2019, June) "Digital Cultural Heritage and the gamification of the past"
 THATCamp Tallahassee 2019, Tallahassee, FL. (Regional) 
 
