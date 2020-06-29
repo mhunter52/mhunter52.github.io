@@ -78,8 +78,11 @@ Chair - ACRL Digital Scholarship Section Liaison Committee (2017-2019)
 
 
 **Conference Presentations**
-* Hunter M., Soper, D., Thomas, C., Miller, L. (Accepted) “Ask the Editors: Expanded Uses for Faculty Needs Assessments”
-Library Publishing Coalition Forum 2020, Worcester, MA. (International)
+* Hunter, M. (Accepted) "Food, Forgotten: An Historiographical Investigation of Medieval English Food Studies"
+Ohio State University Medieval and Renaissance Graduate Student Association 2020 Fall Symposium, Virtual (National)
+
+* Hunter M., Soper, D., Thomas, C., Miller, L. (Presented, 2020, May) “Ask the Editors: Expanded Uses for Faculty Needs Assessments”
+Library Publishing Coalition Forum 2020, Virtual. (International)
 
 * Hunter M. (Postponed*) “3D Digital Literacy: Digital Culture Heritage as Pedagogy”
 Florida Digital Humanities Consortium Conference, 2020, St. Augustine, FL. (Regional)
