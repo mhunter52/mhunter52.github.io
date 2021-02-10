@@ -78,13 +78,19 @@ Chair - ACRL Digital Scholarship Section Liaison Committee (2017-2019)
 
 
 **Conference Presentations**
+* Hunter M. (2021, January) “3D Digital Literacy: Digital Culture Heritage as Pedagogy”
+Florida Digital Humanities Consortium Webinar Series, Virtual (Regional)
+
 * Hunter, M. (Presented, 2020, October) "Food, Forgotten: An Historiographical Investigation of Medieval English Food Studies"
 Ohio State University Medieval and Renaissance Graduate Student Association 2020 Fall Symposium, Virtual (International)
+
+* Hunter M. (Invited panelist, 2020, June) LITA “Top Tech Trends 2020" Panel
+American Library Association Annual Conference 2020, Virtual (National)
 
 * Hunter M., Soper, D., Thomas, C., Miller, L. (Presented, 2020, May) “Ask the Editors: Expanded Uses for Faculty Needs Assessments”
 Library Publishing Coalition Forum 2020, Virtual. (International)
 
-* Hunter M. (Postponed*) “3D Digital Literacy: Digital Culture Heritage as Pedagogy”
+* Hunter M. (Postponed - delivered as webi) “3D Digital Literacy: Digital Culture Heritage as Pedagogy”
 Florida Digital Humanities Consortium Conference, 2020, St. Augustine, FL. (Regional)
 
 * Hunter M. (Invited panelist, 2019, June) LITA “Top Tech Trends 2019” Panel 
@@ -116,6 +122,8 @@ THATCamp Florida 2016, University of Central Florida, Orlando FL.
 
 
 **Poster Presentations**
+* Miller, L., Sherman, L., Hunter, M. (2021, April) "Open Access Art History: Building Library Publishing Partnerships in the Humanities"
+Association of College and Research Libraries 2021 Virtual Conference, Virtual.
 
 * Pascoe, J., Hunter, M. (presented 2018, September) "The Brontës in the World: Creating a Digital Bibliography to Expand Access to Single-Language Sources"
 Japanese Association for Digital Humanities 2018, Tokyo, Japan. http://purl.flvc.org/fsu/fd/FSU_libsubv1_scholarship_submission_1537802286_cca1b799
