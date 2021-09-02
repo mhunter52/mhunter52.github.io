@@ -75,7 +75,8 @@ Chair - ACRL Digital Scholarship Section Liaison Committee (2017-2019)
 
 * Hunter M., Soper, D., Thomas, C., Miller, L. “Ask the Editors: Assessing the Publishing Needs of Faculty Editors” Journal of Librarianship and Scholarly Communications. (Forthcoming)
 
-* Hunter M. Review of Chase, Darren, and Dana Haugh, eds. Open Praxis, Open Access: Digital Scholarship in Action. Chicago: ALA Editions, 2020. for Technical Services Quarterly 38 (3). [https://doi.org/10.1080/07317131.2021.1934342](doi:10.1080/07317131.2021.1934342) (Forthcoming)
+* Hunter, Matthew E. 2021. “Open Praxis, Open Access: Digital Scholarship in Action.” Technical Services Quarterly 38 (3): 332–34. [https://doi.org/10.1080/07317131.2021.1934342](https://doi.org/10.1080/07317131.2021.1934342).
+
 
 
  * Moritz, C., Smart, R., Retteen, A., Hunter, M., Stanley, S., Soper, D., & Vandegrift, M. (2017). De-centering and recentering digital scholarship: A manifesto. Journal of New Librarianship, 2(2), 102–109. [https://doi.org/10.21173/newlibs/3/2](https://doi.org/10.21173/newlibs/3/2)
