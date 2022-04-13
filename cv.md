@@ -14,6 +14,8 @@ ________________
  * Data visualization and physicalization
  * Diet, identity, and foodways in the Roman Empire
  * Diet, identity, and foodways in medieval England
+ * Embodied and gendered domestic labor in medieval kitchens
+ * Medieval recipe collections
  * Agricultural production in medieval English manorial holdings
 
 ________________
@@ -65,8 +67,15 @@ Graduate Assistant | Spring 2014<br/>
 ________________
 
 **Professional Service**
+Vice Chair - Florida Digital Humanities Consortium Executive Committee (2022- )
 
-Member - Library Publishing Coalition Research Committee (2019- )
+Chair - Florida Digital Humanities Consortium Education Committee (2021-2022)
+
+Member - Florida Digital Humanities Consortium Education Committee (2021- )
+
+Member - Library Publishing Coalition Professional Development Committee (2021- )
+
+Member - Library Publishing Coalition Research Committee (2019-2021)
 
 Chair - ACRL Digital Scholarship Section Liaison Committee (2017-2019)
 
@@ -75,16 +84,21 @@ Chair - ACRL Digital Scholarship Section Liaison Committee (2017-2019)
 
 * Hunter M., Soper, D., Thomas, C., Miller, L. “Ask the Editors: Assessing the Publishing Needs of Faculty Editors” Journal of Librarianship and Scholarly Communications. (Forthcoming)
 
+* Swatscheno, J., Collins, P., Dubinsky, E., Harmon, I., Miller, L., Bedford, L., Anderson, T., Beamer, J., Grunert, J., Guimont, C., Hunter, M., Scarpelli, L., Tracy, D., and Wipperman, S. (2021, July) “Library Publishing Coalition Directory Data Set” Library Publishing Coalition.
+
 * Hunter, Matthew E. 2021. “Open Praxis, Open Access: Digital Scholarship in Action.” Technical Services Quarterly 38 (3): 332–34. [https://doi.org/10.1080/07317131.2021.1934342](https://doi.org/10.1080/07317131.2021.1934342).
-
-
 
  * Moritz, C., Smart, R., Retteen, A., Hunter, M., Stanley, S., Soper, D., & Vandegrift, M. (2017). De-centering and recentering digital scholarship: A manifesto. Journal of New Librarianship, 2(2), 102–109. [https://doi.org/10.21173/newlibs/3/2](https://doi.org/10.21173/newlibs/3/2)
 
 
 
 **Conference Presentations**
-* Hunter M. (2021, January) “3D Digital Literacy: Digital Culture Heritage as Pedagogy”
+* Hunter, M. and Stanley, S. (2022, March) "Tiered DH Support at FSU Libraries"
+Florida Digital Humanities Consortium Conference, 2022, St. Augustine, FL. (Regional)
+
+* Miller, L., Sherman, L., Hunter, M. (2021, April) “Open Access Art History: Building Library Publishing Partnerships in the Humanities” Association of College and Research Libraries 2021 Virtual Conference, Virtual.
+
+* Hunter, M. (2021, January) “3D Digital Literacy: Digital Culture Heritage as Pedagogy”
 Florida Digital Humanities Consortium Webinar Series, Virtual (Regional)
 
 * Hunter, M. (Presented, 2020, October) "Food, Forgotten: An Historiographical Investigation of Medieval English Food Studies"
@@ -96,7 +110,7 @@ American Library Association Annual Conference 2020, Virtual (National)
 * Hunter M., Soper, D., Thomas, C., Miller, L. (Presented, 2020, May) “Ask the Editors: Expanded Uses for Faculty Needs Assessments”
 Library Publishing Coalition Forum 2020, Virtual. (International)
 
-* Hunter M. (Postponed - delivered as webi) “3D Digital Literacy: Digital Culture Heritage as Pedagogy”
+* Hunter M. (Postponed - delivered as webinar) “3D Digital Literacy: Digital Culture Heritage as Pedagogy”
 Florida Digital Humanities Consortium Conference, 2020, St. Augustine, FL. (Regional)
 
 * Hunter M. (Invited panelist, 2019, June) LITA “Top Tech Trends 2019” Panel 
