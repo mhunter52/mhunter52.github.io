@@ -82,7 +82,7 @@ Chair - ACRL Digital Scholarship Section Liaison Committee (2017-2019)
 
 **Publications**
 
-* Hunter M., Soper, D., Thomas, C., Miller, L. “Ask the Editors: Assessing the Publishing Needs of Faculty Editors” Journal of Librarianship and Scholarly Communications. (Forthcoming)
+* Hunter, M. E. & Dunne, L. & Thomas, C. & Miller, L. & Soper, D., (2022) “Ask the Editors: Assessing the Publishing Needs of Faculty Editors”, /Journal of Librarianship and Scholarly Communication/ 10(1). doi: https://doi.org/10.31274/jlsc.12912
 
 * Swatscheno, J., Collins, P., Dubinsky, E., Harmon, I., Miller, L., Bedford, L., Anderson, T., Beamer, J., Grunert, J., Guimont, C., Hunter, M., Scarpelli, L., Tracy, D., and Wipperman, S. (2021, July) “Library Publishing Coalition Directory Data Set” Library Publishing Coalition.
 
