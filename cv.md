@@ -9,6 +9,7 @@ Personal - [mhunter52@gmail.com](mailto:mhunter52@gmail.com)
 ________________
 
 **Research Interests**
+
  * Applications of emerging technology in humanities scholarship and pedagogy
  * The library as academic publisher
  * Data visualization and physicalization
@@ -42,6 +43,7 @@ ________________
 
 	
 **Employment**
+
 Digital Scholarship Librarian | 1/2020 - present<br/>
 *Florida State University Libraries Office of Digital Research and Scholarship, Tallahassee, FL*
 
@@ -67,6 +69,7 @@ Graduate Assistant | Spring 2014<br/>
 ________________
 
 **Professional Service**
+
 Vice Chair - Florida Digital Humanities Consortium Executive Committee (2022- )
 
 Chair - Florida Digital Humanities Consortium Education Committee (2021-2022)
