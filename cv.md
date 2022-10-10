@@ -3,8 +3,7 @@
 
 #### *Digital Scholarship Technologist, Florida State University Libraries*<br/>
 ORCID - [https://orcid.org/0000-0003-4858-6947](https://orcid.org/0000-0003-4858-6947)<br/>
-Work - [mhunter2@fsu.edu](mailto:mhunter2@fsu.edu)<br/>
-Personal - [mhunter52@gmail.com](mailto:mhunter52@gmail.com)
+Work - [mhunter2@fsu.edu](mailto:mhunter2@fsu.edu)
 
 ________________
 
@@ -90,6 +89,8 @@ Chair - ACRL Digital Scholarship Section Liaison Committee (2017-2019)
 * Swatscheno, J., Collins, P., Dubinsky, E., Harmon, I., Miller, L., Bedford, L., Anderson, T., Beamer, J., Grunert, J., Guimont, C., Hunter, M., Scarpelli, L., Tracy, D., and Wipperman, S. (2021, July) “Library Publishing Coalition Directory Data Set” Library Publishing Coalition.
 
 * Hunter, Matthew E. 2021. “Open Praxis, Open Access: Digital Scholarship in Action.” *Technical Services Quarterly* 38(3): 332–34. [https://doi.org/10.1080/07317131.2021.1934342](https://doi.org/10.1080/07317131.2021.1934342).
+
+* Agate, N., Beamer, J., Bedford, E., Boczar, J., Bjork, K., Guimont, C., Harmon, I., Hunter, M. E., Johnson, A., Wipperman, S., Gabler, V., & Schlosser, M. (2020). Library Publishing Research Agenda. Atlanta, GA: Educopia Institute. [http://dx.doi.org/10.5703/1288284317124](http://dx.doi.org/10.5703/1288284317124)
 
  * Moritz, C., Smart, R., Retteen, A., Hunter, M., Stanley, S., Soper, D., & Vandegrift, M. (2017). De-centering and recentering digital scholarship: A manifesto. *Journal of New Librarianship* 2(2), 102–109. [https://doi.org/10.21173/newlibs/3/2](https://doi.org/10.21173/newlibs/3/2)
 
