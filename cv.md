@@ -84,6 +84,10 @@ Chair - ACRL Digital Scholarship Section Liaison Committee (2017-2019)
 
 **Publications**
 
+* Hunter, M. E., Soper, D., & Stanley, S. (2023) "Standing Up Vendor-Provided Web Hosting Services at Florida State University Libraries: A Case Study", *The Code4Lib Journal, 58*. [https://journal.code4lib.org/articles/17766](https://journal.code4lib.org/articles/17766)
+
+* Soper, D. & Hunter, M., (2023) "The Journal of Postsecondary Student Success: Lessons Learned from Launching a Flagship Journal", *Case Studies in Library Publishing* 1(1). [https://cslp.pubpub.org/pub/k5byv38h](https://cslp.pubpub.org/pub/k5byv38h). 
+
 * Hunter, M. E. & Dunne, L. & Thomas, C. & Miller, L. & Soper, D., (2022) “Ask the Editors: Assessing the Publishing Needs of Faculty Editors”, *Journal of Librarianship and Scholarly Communication* 10(1). doi: https://doi.org/10.31274/jlsc.12912
 
 * Swatscheno, J., Collins, P., Dubinsky, E., Harmon, I., Miller, L., Bedford, L., Anderson, T., Beamer, J., Grunert, J., Guimont, C., Hunter, M., Scarpelli, L., Tracy, D., and Wipperman, S. (2021, July) “Library Publishing Coalition Directory Data Set” Library Publishing Coalition.
