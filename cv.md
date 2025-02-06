@@ -1,9 +1,9 @@
 # Matthew E. Hunter
 
 
-#### *Digital Scholarship Technologist, Florida State University Libraries*<br/>
+#### *Head of Digital Scholarship, University of Pennsylvania*<br/>
 ORCID - [https://orcid.org/0000-0003-4858-6947](https://orcid.org/0000-0003-4858-6947)<br/>
-Work - [mhunter2@fsu.edu](mailto:mhunter2@fsu.edu)
+Work - [mhunter2@upenn.edu](mailto:mhunter2@upenn.edu)
 
 ________________
 
@@ -43,7 +43,10 @@ ________________
 	
 **Employment**
 
-Digital Scholarship Librarian | 1/2020 - present<br/>
+Head of Digital Scholarship | 1/2025 - Present<br/>
+*University of Pennsylvania Libraries Research Data and Digital Scholarship Department, Philadelphia, PA*
+
+Digital Scholarship Librarian | 1/2020 - 12/2024<br/>
 *Florida State University Libraries Office of Digital Research and Scholarship, Tallahassee, FL*
 
 Digital Scholarship Technologist | 6/2017 - 1/2020<br/>
@@ -69,15 +72,15 @@ ________________
 
 **Professional Service**
 
-Vice Chair - Florida Digital Humanities Consortium Executive Committee (2022- )
+Vice Chair - Florida Digital Humanities Consortium Executive Committee (2022-2024)
 
 Chair - Florida Digital Humanities Consortium Education Committee (2021-2022)
 
-Member - Florida Digital Humanities Consortium Education Committee (2021- )
+Member - Florida Digital Humanities Consortium Education Committee (2021-2024)
 
-Member - Library Publishing Coalition Professional Development Committee (2021- )
+Member - Library Publishing Coalition Professional Development Committee (2021-2023)
 
-Member - Library Publishing Coalition Research Committee (2019-2021)
+Member - Library Publishing Coalition Research Committee (2019-2021, 2023–2025)
 
 Chair - ACRL Digital Scholarship Section Liaison Committee (2017-2019)
 
