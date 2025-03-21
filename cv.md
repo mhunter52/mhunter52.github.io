@@ -199,5 +199,5 @@ ________________
 
 **Certifications**
 
-* Certified Carpentries Instructor | 3/2025
+* Certified Carpentries Instructor -- 3/2025
 
