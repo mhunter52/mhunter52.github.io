@@ -29,7 +29,6 @@ In Progress | Ph.D., History<br/>
 *Florida State University, Tallahassee, FL*
 	
 2014 | M.A., Latin<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.A. Paper Topic: "The Misrepresentation of Meat Consumption in Caesar’s Gallic War"<br/>
 *Florida State University, Tallahassee, FL*
 	
 2012 | B.A., Classical Civilization<br/>
@@ -55,18 +54,14 @@ Digital Scholarship Technologist | 6/2017 - 1/2020<br/>
 Director of Digital Services | 7/2016 – 6/2017<br/>
 *Southeast Florida Library Information Network (SEFLIN), Boca Raton, FL*
 
-
 Digital Research & Scholarship Intern | 8/2015 – 4/2016<br/>
 *Florida State University Libraries Office of Digital Research and Scholarship, Tallahassee, FL*
-
 
 Grants Officer I | 6/2014 – 7/2016<br/>
 *Florida State University Sponsored Research Administration, Tallahassee, FL*
 
-
 Graduate Assistant | Spring 2014<br/>
 *Florida State University Department of Classics, Tallahassee, FL*
-
 
 ________________
 
@@ -200,3 +195,9 @@ ________________
  * Digital Publishing: Omeka, Scalar, WordPress, Islandora, LibGuides, Pressbooks, Open Journal Systems
  * Digital Research Tools: Zotero, Voyant, HathiTrust Research Center, CartoDB, OpenRefine, Python
  * Visualization, 3D Modelling, and Geospatial Tools: Blender, Unity, QGIS, Cura, Gephi, Tableau
+
+
+**Certifications**
+
+* Certified Carpentries Instructor | 3/2025
+
